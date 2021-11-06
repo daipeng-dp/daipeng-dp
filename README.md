@@ -12,16 +12,16 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=daipeng-dp&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daipeng-dp&theme=tokyonight">
   <a href="https://github.com/daipeng-dp/QT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daipeng-dp&repo=myblog&theme=tokyonight" />
   </a>
   <a href="https://github.com/daipeng-dp/Minecraft-Digital-Circuit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=python-wenzimaoxian &theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daipeng-dp&repo=python-wenzimaoxian &theme=tokyonight" />
   </a>
   <a href="https://github.com/daipeng-dp/algoexec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-exproto-python-sdk&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daipeng-dp&repo=emqx-exproto-python-sdk&theme=tokyonight" />
   </a>
   <a href="https://github.com/daipeng-dp/stockfish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-extension-examples&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daipeng-dp&repo=emqx-extension-examples&theme=tokyonight" />
   </a>
 </p>
 <p align = "center">
