@@ -4,10 +4,13 @@
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
 - 🌱 &nbsp; 既然已经来了，请不要吝啬你手里的Star。
 - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
-- ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
+- ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
 <p align = "center" >
   <img src = "https://komarev.com/ghpvc/?username=daipeng-dp" >
 </p>
+<p align = "right">
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p> 
 - <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=daipeng-dp&theme=tokyonight">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daipeng-dp&theme=tokyonight">
@@ -24,13 +27,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daipeng-dp&repo=stockfish&theme=tokyonight" />
   </a>
 </p>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=daipeng-dp&theme=react-dark">
-</p>
-<p align = "center">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=daipeng-dp&theme=tokyonight" width="45%">
-</p>
-<p align = "center">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=daipeng-dp&theme=tokyonight" width="50%" >
-</p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
